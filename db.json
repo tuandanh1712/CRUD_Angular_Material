@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "danh",
+      "lastName": "tuan",
+      "email": "tuan@gmail.com",
+      "dod": "2017-01-07T17:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "experience": 2,
+      "company": "sd",
+      "package": 12,
+      "id": 1
+    },
+    {
+      "firstName": "sdsad",
+      "lastName": "sadas",
+      "email": "sdasd",
+      "dod": "2023-11-13T17:00:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "experience": 23,
+      "company": "dsd",
+      "package": 2131,
+      "id": 2
+    },
+    {
+      "firstName": "sadasd",
+      "lastName": "1712",
+      "email": "dsds",
+      "dod": "2023-11-12T17:00:00.000Z",
+      "gender": "",
+      "education": "Intermedicate",
+      "experience": 1,
+      "company": "sadasd",
+      "package": 23,
+      "id": 3
+    }
+  ]
+}
